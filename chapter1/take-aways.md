@@ -79,3 +79,52 @@
   - Immaterielle Vermögenswerte wie geistiges Eigentum, Kompetenzen, finanzielle und personelle Ressourcen werden elektronisch verwaltet und alle Infos sind sofortig abrufbar
   - Vernetzte Unternehmen sind flexibler und können schlechtere Zeiten adaptischer erschließen als traditionelle Unternehmen
   - IT ist für die Führung ein essentielles Managementtool und manche Unternehmen wie Cisco sind vollkommen vernetzte Unternehmen wo alles am Internet hängt
+
+#### Strategische Geschäftsziele von Informationssystemen
+
+- Es wird heute sehr viel in Informationssysteme investiert da diese für das Tagesgeschäft enorm wichtig sind und nur mit diesen strategische Ziele erreicht werden
+- E-Commerce wie Amazon, Ebay, Google, Zalando würden nicht existieren, sowie auch Banken, Versicherungen oder Reiseunternehmen oder Verkaufsketten wie Aldi und Lidl oder Autohersteller würden nur in begrenzter Form existieren
+- Was ein Unternehmen in 5 Jahren erreichen kann hängt oft von heutigen Systemen ab, Geschäftsstrategien und Einsatz von IT ist oft sehr abhängig
+- Betriebe möchten mit IT 6 Ziele erreichen:
+
+  - **Exzellente Betriebsabläufe**
+
+    - Geschäftsprozesse kontinuierlich verbessern für höheren Grad der Effektivität und höher Effizienz also Aufwands/Ertragsverhältnis
+    - Wal-Markt nutzt IT-System um jeden Zuliefer mit jeder Filiale zu vernetzt und in Echtzeit über Kauf jeden Artikels informiert wird und nachliefern kann
+
+  - **Neue Produkte, Dienstleistungen und Geschäftsmodelle**
+
+    - Ein Geschäftsmodell beschreibt wie ein Unternehmen ein Produkt/Dienstleistung erstellt, bereitstellt und vertreibt und Gewinn zu erhalten
+    - Netflix hat Videotheken durch Onlinedistribution und Streaming abgelöst und neue Dienstleistungsmöglichkeiten geschaffen da alle Titel immer verfügbar und abrufbar sind
+
+  - **Kunden/Lieferantennähe**
+
+    - Wenn Unternehmen Kunden/Lieferantenwünsche gut erfüllen kommen diese wieder was Umsatz und Gewinn steigert
+    - Je mehr Lieferanten genutzt werden desto mehr können diese Kosten senken
+    - Kundenwünsche sind schwer erfassbar Hotels nutzen IT um beliebte Raumtemperatur, Ankunftszeiten, Rufnummernutzungen, Fernsehprogramme etc zu erkennen und Kundneprofile klassifiziert
+
+  - **Optimierte Entscheidungen**
+
+    - Viele Manager nutzen Schätzungen, Prognosen und Intuition da Informationen nicht im Unfang oder rechtzeitig vorliegen wodurch unter- oder überproduziert wird und Gewinn verloren geht und Kunden verschwinden da zu langsam reagiert wird
+    - Durch IT können Manager Echtzeit-Daten nutzen für Entscheidungen wie für aktuelle Kundenbeschwerden oder Leitungsschäden im Netzwerk und Reperaturteams gezielter beauftragt werden können
+
+  - **Wettbewerbsvorteile**
+
+    - Bereits das Erreichen eines Zieles führt zu Wettbewerbsvorteilen und erlangen von Gewinnen das anderen Unternehmen verwehrt bleibt
+
+  - **Fortbestand des Unternehmens**
+
+    - Investitionen in IT wird auch für für den Fortbestand von Geschäftsmodellen nötig wie die Einführung von Geldautomaten für mehr Kundenservice alle Banken zur Investition zwang, was heute Notwendigkeit zum betreiben einer Bank ist
+    - Auch schreiben Regulatoriken die Verwahrung von Daten mit gewissen Technologien vor (IT-Compliance/Datenschutz)
+
+#### Anwendungensysteme von Informationssysteme
+
+- Ein **Anwendungssystem** beinhaltet alle Programme für konkretes betriebliches Anwendungsgebiet zur Entwicklung, Einführung und Einsetzung, sowie Datenbanken für Datenvernetzung zur Software und Infrastruktur auf der die Software läuft
+- Anwendungsysteme sind oftmals viele zweckgebundene wie für Rechnungswesen, Personalwesen, Logistik, Verkauf, Marketing etc
+- Anwendungssystem ist die technische Realisation eines Informationssystem mittels Hard/Software und Daten
+- Oftmals werden Softwaresysteme eingekauft und müssen dennoch an Prozesse angepasst werden
+- Ein **Informationssystem** ist für betriebsliche Aufgaben geschaffen und enhält die Anwendungssoftware, sowie die Daten aber auch die Organisationsstruktur und das Personal
+- Informationssysteme sind immer betriebsindividuell und können nur so zugeschnitten die volle Wirkung entfachen und können nicht einfach fertig eingekauft werden
+- Trennung zwischen Informations und Anwendungsystem ist schwammig
+- **Informationen** sind Daten die für Menschen Bedeutung und sinnvolle Form ahben (Auswertungen aus Verkaufszahlen)
+- **Daten** sind rohee Fakten und nicht für Menschen strukturiert (Preise, Artikelnummern)
