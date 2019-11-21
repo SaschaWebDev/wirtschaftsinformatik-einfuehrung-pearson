@@ -128,3 +128,91 @@
 - Trennung zwischen Informations und Anwendungsystem ist schwammig
 - **Informationen** sind Daten die für Menschen Bedeutung und sinnvolle Form ahben (Auswertungen aus Verkaufszahlen)
 - **Daten** sind rohee Fakten und nicht für Menschen strukturiert (Preise, Artikelnummern)
+- Die drei Aktivitäten **Eingabe**, **Verarbeitung** und **Ausgabe** eines Anwendungssystems führen zu allen Informationen für Entscheidungen und Analysen
+- **Eingabe** ist das Erfassen von Rohdaten
+- **Verarbeitung** ist Transformation in menschliche Information
+- **Ausgabe** ist Verteilung der Information an Menschen die zur Verwendung
+- **Formale Systeme** benötigen feste Defintion der Daten und Erfassungsverfahren, Speichern, Verarbeiten und Verteilen
+- Beispiel ist UPS-Fahrer der Unterschrift einholt und System fügt den Daten TrackinID, Uhrzeiten etc hinzu und verarbeitet alles zu Informationen
+- Formale Informationssysteme können computerbasiert oder manuell mit Papier und Stift sein
+- **Programme** sind Anweisungen für die Verarbeitung von Daten durch Computer
+- **Software** ist in einer Programmiersprache geschriebene Programme und ist Voraussetzung für Betrieb von Computer
+- Software alleine ist noch kein Informationssystem, es ist nur die Infrastruktur erst die Architektur und das Design ergibt es was betriebliche Aufgaben, Organisationsstrukturen und Menschen berücksichtigt
+
+#### Organisation, Technik und Management als drei Perspektiven von Informationssystemen
+
+- Investition in ein IT-System muss Unternehmenswert erhöhen und höhere Rendite als ein Gebäude oder Maschinen erzeugen
+- Höhere Rendite kann durch Produktivitätszuwachs erreicht werden, mehr Umsatzerlösen(Aktienwert höher) oder besserer Unternehmensstrategie am Markt(zukünfigt mehr Umsatzerlöse)
+- Auch zur Regulation und rechtlichen Anforderungen kann in IT investiert werden (Dokumentenverwahrungsysteme)
+- Manchmal ist die Investition in IT notwendig zum Fortbestehen eines Unternehmens zu gewährleisten (Onlinebanking)
+
+**Organisation**
+
+- Organisation eines Unternehmens ist eine Arbeitsteilung in **Geschäftsfunktionen** wie Spezialaufgaben wie Vertrieb, Marketing, Produktion, Finanzwesen, Buchhaltung etc
+  -Organisation ist typischer hierarchisch wie in einer Pyramide verteilt wobei oben wenige Management und Geschäftsführung ist unten sind technische und Fachmitarbeiter in operatischen Ebenen
+- Übliche Geschäftsfunktionen sind
+  - Beschaffung (Rohstoffe, Vorprodukte für Produktion)
+  - Vertrieb und Marketing (Vetrieb von Produkten und Dienstleistung)
+  - Produktion (Erzeugung von Gütern)
+  - Finanz und Rechnungswesen (Verwaltung der Vermögenswerte, Finanzberichte, Buchaltung)
+  - Personalwesen (Einstellung, Verwaltung, Fortbildung, Personalakten)
+- **Verfahrensrichtlinien** sind längerfristige formale Regeln zur Erledigung von Aufgaben (Rechnungserstellung, Kundenreklamation, Kundenservice)
+- Oft sind Verfahrensrichtlinien in Informationsysteme eingebunden wie Richtlinien für Rechnungskorrekturen
+- Unternehmen benötigen viele Arten von Mitarbeitern und Fähigkeiten wie **Wissensarbeiter** (Ingenieure, Architekten), **Datenverarbeiter** (Analysten, Buchhalter, Sachbearbeiter), Produktionsmitarbeiter (Fließbandarbeiter, Maschinenführer)
+  -Jedes Unternehmen besitzt eine Unternehmenskultur mit Werten die von Mitarbeitern akzeptiert werden wie Kundenorientierung
+
+**Management**
+
+- Das Management muss Situationen interpretieren, Entscheidungen treffen und Pläne erstellen
+  -Herausforderungen werden an Unternehmen herangetragen und das Management reagiert darauf indem personelle und finanzielle Ressourcen zugewiesen werden
+- Das Management muss Mitarbeiter verantwortungsvoll führen und neue Produkte und Dienstleistungen entwickeln oder das Unternehmen revolutionieren
+- **Topmanagement** fällt langfristige strategische Entscheidungen über Produkte und Angebote
+- **Mittleres Management** setzt die Pläne und Ziele des TopManagements um
+- **Führungskräfte für operatives Geschäft** überwachen laufende Aufgaben
+- Jede Managementebene hat daher andere Anforderungen an Informationssysteme
+
+**Technik**
+
+- **Hardware** ist technisches Hilfsmittel als physische Geräte zur Eingabe, Datenverarbeitung und Ausgabe von Informationssystemen (Computer, Speichergeräte)
+- **Speichertechnik** sind Datenträger und Software
+- **Kommunukationstechnik** sind physische Geräte und Software die Computerhardware miteinander verbinden und Daten übertragen oder zum Verwalten von allen Daten
+- **Netzwerke** verbinden Computer um Ressourcen wie Daten zu teilen
+- ** Alle Techniken repräsentieren die **IT-Infrastruktur\*\*
+
+#### Fallstudie UPS Wettbewerbsfähigkeit durch IT
+
+- UPS investiert jährlich eine halbe Millarde in IT für Kundenservice, Kostenreduzierung und optimierung von Geschäftsprozessen
+- Pakete haben scannbaren Aufkleber mit Barcode für Absender, Zieladresse, Zustelldatum etc
+- Kunden können selber Aufkleber von Website laden, drucken und kleben und Zentrale ermittelt für jedes inviduelle Paket die beste Route und spart dadurch 45Mio Kilometer und 11Mio Sprit ein pro Jahr
+- Fahrer besitzen Handheld-Pcs für Anzeige täglicher Route, Unterschrifteinholung und Datenerfassung
+- Von Paket bis Information im Web vergehen maximal 60 Sekunden
+- Zentrale kann gesamten Paketverlauf überwachen und in Echtzeit umleiten
+- Endkunden können Webapp, PC-Anwendung oder Mobile-App nutzen für Services und dort Kostenberechnen selber Pakete vorbeiten und Transportzeiten einsehen und Termine vereinbaren
+- Webbasiertes zentrales System überwacht Serviceaufträge, Warenbestände für Ersatzteile
+- Corporatekunden für High-Tech Elektronik, Luft und Raumfahrt haben Zugänge um Ersatzteillieferungen zu Kunden zu planen und die gesamte Liferung zu überwachen und werden über jeden Schritt imformiert
+- UPS verkauft ein Supply Chain IT-Paket für Standarddienstleistungen an Corporate Kunden
+- Pharmakunden konnten ihre eigenen Lager schließen und nutzen UPS für die Warenabwicklung von Medikamenten und damit Kosten senken, da UPS riesige Warenlager mit Kühlung und Sicherheitsvorkehrungen besitzt
+
+**Fragen**
+
+- Welche Daten werden bei der Paketverfolgung eingegeben, verarbeitet und ausgegeben?
+
+  - Eingegeben werden Kostenwünsche der Kunden, gewünschte Transportzeiten und Adressdaten
+  - Diese werden zu optimalen Transportrouten, Kostensenkunden und Lastverteilung der Fahrer verarbeitet
+  - Ausgegeben werden für den Fahrer die Transportrouteninfos und Lieferfristen und für Kunden genaue Angaben über aktuellen Zustand des Paketes
+
+- Welche Techniken werden von UPS eingesetzt? Welche Beziehungen bestht zwischen diesen Techniken der UPS-Strategie?
+
+  - Speichertechnik (Server), Hardware (Handhelds, Barcodeleser), Kommunikation (Webapps), Netzwerke (Echtzeitdatenübertragung, Zentrale)
+  - Tracking, Webapp, Mobile Apps, Desktopapps, Routenberechnung, Warenberechnung, Distribution, Kostenberechnung, viele Informationssysteme die in Koordination arbeiten
+  - Durch die Techniken kann UPS seine IT-Investitionsstrategie weiterführen und mehr Marktanteile gewinnen wie Pharma oder Lufttechniktransporte
+
+- Was wäre wenn die Informationssysteme für UPS nicht da wären?
+
+  - UPS könnte niemals die gleichen Mengen an Pakete bewegen und planen. Alles würde durch Menschen angeordnet und mit Blatt und Papier berechnet werden wodurch die Gewinne und das ganze Geschäft enorm kleiner wären.
+
+#### Ergänzende Vermögenswerte wie Organisations und Managementbezogenes Kapital
+
+- Es gibt unterschiedliche Renditen nach Investiton in IT zwischen Unternehmen welche vom Konzept der ergänzenden Vermögenswerte abhängen
+- **Ergänzende Vermögenswerte** sind zusätzliche Investitionen wie in Geschäftsprozesse, Managementverhalten, Schulungen um höhere oder überhaupt eine Rendite zu erzielen
+- **Organisationsbezogenes/Managementbezogenes Kapital** sind Zusatzinvestitionen in Sachanalgen wie Gebäude, Maschinen, Werkzeuge und in Management
