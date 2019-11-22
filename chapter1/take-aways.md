@@ -244,7 +244,14 @@
 **E-Commerce/E-Business**
 
 - Viele Waren werden weltweit über den globalen Marktplatz Internet erworben (Blumen, Elektronik, Aktien)
--
+- **E-Commerce** bedeutet der elektronische Ein- und Verkauf von Waren und Dienstleistungen mit computergestützten Geschäftstransaktionen über das Internet (Auch Werbung, Marketing, Kundenservice, Versand, Zahlung)
+- Der **elektronische Markt** ist durch informationssysteme erzeugt und verbindet Käufer und Verkäufer (Kostensenkung für alle Beteiligten)
+- **Intranets** beinhalten interne Unternehemnsdaten verhalten sich wie ein firmeneigenes Internet
+- **Extranets** ist ein privates Intranet auf das autorisierte Außenstehende zugreifen (Lieferantensysteme)
+- **E-Business** ist die Anwendung von Internet und digitalen Techniken für alle Geschäftsprozesse mit E-Commerce, Intranet etc
+- Ein E-Business kann in Fabriken Just-in-time produzieren, Warenbestände auffüllen,mit entfernen Büros sich abstimmen für Gruppenarbeitsprozesse, mit Geschäftspartnern Designs abstimmen, mit Lieferanten die Supply Chain managen und mit Kunden Onlinemarketing, Vertrieb und Kundenservice betreiben
+- **E-Government** ist die Verwendung von Internet o.ä für Beziehung mit Regierung und Verwaltung zu Bürgern, Unternehmen oder zwischen Behörden durch elektronik gestützt also im öffentlichen Einsatz
+- Bürger können Ausweise selber beantragen oder Wahlunterlagen anmelden oder Spenden
 
 #### Fallstudie Management aus der Ferne
 
@@ -267,3 +274,40 @@
 - Welche Schlussfolgerung lässt sich daraus ziehen das IPhones die ganze Branche verändern wie Kunden und Lieferanten kommunizieren?
 
   - Absprachen können verlässlicher, genauer und in Echtzeit gemacht werden. Korrekturen und Änderungen können einfach schneller vermittelt werden. Sämtliche Daten, Bilder, Ideen können geteilt werden.
+
+#### Carr-Debatte
+
+- Auf makroökonomischer Ebene kann IT Wirtschaftswachstum, Arbeitsplätze, Innovation und bessere Arbeitsteilung bringen
+- IT-Sektor ist größer als Automobilindustrie oder Maschinenbau in Deutschland und wächst überdurchschnittlich
+- 80% aller deutschen Exporte hängen von IT ab und der Wohlstand durch erhöhte Arbeitsproduktivität hängt durch 75% von IT ab.
+- **Produktivitätsparadoxon des Wertbetrages der IT** steht im Konflikt das Investition in IT keinen strategischen Wettbewerbsvorteil durch erhöhte Produktivität erzeugt bzw diese in Studien nicht gemessen werden kann.
+- Carr behauptet "IT doesn't matter" und kann nur als Ressource gesehen werden. Er sieht IT all überall vorhandenes und verfügbares Allgemeingut wie Elektrizität oder Dampfmaschine.
+- Nur eigenes entwickelte propietäre Systeme können Wettbewertsvorteile erzeugen, da sieht nicht allgemein verfügbar sind. Diese können aber eher eine Last sein, da öffentliche Software frei entwickelt wird und kostenlos ist, daher sollte man "Follow not Lead" und "Spend less" verfolgen.
+- Paradoxerweise kann ein Nichtinvestition aber durchaus ein Wettbewerbsnachteil verschaffen.
+- Carr missachtet Prozess- und Produktinnovation und die höhere Leistungssteigerung und Verbreitung von IT im Gegensatzu zu vorherigen Fortschritten
+- Für die Zukunft vergleicht Carr IT-Abteilungen mit frühen Kraftwerken die jedes Unternehmen privat besessen hat. Heutzutage sind alle zentral und öffentlich. Er glaubt IT wird ein öffentliches Gut und in Datenzentren ausgelagert für die Verwendung auf viele Unternehmen. Cloud-Computing geht ebenfalls in die Richtung.
+
+### Herausforderungen bei Gestaltung und Einsatz
+
+- Unternehmen können von Investition in IT profitieren wenn sie auch ganzheitliche investieren in Bildung, neue Geschäftsprozesse, Managementänderungen etc. Nur dann sind auch höhere Renditeerwartungen absehbar.
+- Das Topmanagement sollte einschätzen können ob Wettbewerber höhere Rendite erwirtschaften und wie die Investition in IT gemessen werden kann.
+- Als ergänzende Unternehemnswerte für den effizienten Einsatz sind die Ausbildung der Mitarbeiter zur Nutzung sehr wichtig, sowie neue Richtlinien, Geschäftsprozesse und Umstrukturierungen
+- Unternehmen können global-wirtschaftlichen Anforderungen gerecht werden wenn in vielen Ländern Produkte produziert und vertrieben werden können. Auch die Multilingualität und verschiedene Gesetze und Pflichten müssen berücksichtigt werden.
+- Unternehmen entwickeln eine IT-Infrastruktur die auch Marktveränderungen standhält indem spezielle **Informationsarchitektur** angewandt wird. Also ein spezieller Entwurf der IT zum Erreichen eines bestimmten Zieles für aktuelle und künftige Anforderungen.
+- Die Integration und Kommunikation verschiedener Informationssysteme müssen durch modulare und standardisierte Schnittstelln mit guter Architektur gewährleistet werden. Das ist oftmals noch ein Problem.
+- Die ethische und soziale Verantwortung der Systeme verlangt, dass Menschen Entscheidungen treffen und Systeme funktionstüchtig sind.
+
+#### IT in der Praxis
+
+- **Beschaffung** mittels E-Procurement können Unternehmen im Internet zu Niedrigstpreisen Waren bestelle. Durch webbasierte Routinen können Kosten gesenkt und beide Parteien entlastet werden.
+- **Finanz- und Rechnungswesen** können Wertpapiere online handeln oder anbieten. Man kann die Informationen im Unternehmen sofortig bereitstellen und sich alle Finanzdaten aus der Welt beschaffen.
+- **Personalwesen** geschieht computerstützt für mehr Überblick und verteilteren Remote-Teams mit mehr Koordination.
+- **Produktion** ist effektiver und genauer durch IT geworden und Produkte können individueller aber auch massenfertiger gezeugt werden. Kooperation zwischen Unternehmen und Lieferanten steigt.
+- **Vertrieb und Marketing** florieren durch das World Wide Web. Es können neue Wege und neue Kundengruppe erschlossen werden. Ohne Mitarbeiter vor Ort können sogar kleine Unternehmen Waren fast überall hin verkaufen.
+
+### Zusammenfassung
+
+- Heutige Rolle von Informationssystemen im Wettbewerb ist unentbehrlich, da globale Märkte erschließbar sind und die Analyse, Kommunikation und Verwaltung auf neue Ebenen gehoben wird. Es können neue wissensbasierte Produkte angeboten werden. Unternehmen erhalten flachere und dezentralere Hierarchien mit mehr Remotemöglichkeiten und Vernetzung zwischen Lieranten, Kunden etc.
+- Ein Informationssystem ist für bestimmte Zwecke eines Teiles eines Unternehmens erstellt und betrifft Organisation, Personal und Technikinfrastruktur. Es sammelt, speichert und verarbeitet Daten zur Gewinnung von Informationen für Menschen die dann für Geschäftsfunktionen, Entscheidungsfindung, Kommunikation, Koordination etc genutzt werden können. Sie wandeln drei Grundaktivitäten Eingabe, Verarbeitung, Ausgabe in Informationen um. Es müssen die Menschen des Betriebs berücksichtigt werden, daher sind sie keine Standardsoftware. Informationssysteme sind Hilfsmittel für Management zur Entscheidungsfindung und für Mitarbeiter für Geschäftsprozesse.
+- Anwendungssysteme beinhalten alle Programme die für konkrete betriebliches Anwendungsgebiet benötigt sind. Es gibt viele parallele Anwendungssysteme in einem Unternehmen welche Teile von Informationssystemen sind. Werden von Softwarehäusern erstellt als Standardsoftware die oft noch angepasst werden muss.
+- Internet und IT haben Unternehmen ma´geblich verändert
