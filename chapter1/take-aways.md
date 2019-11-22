@@ -310,4 +310,23 @@
 - Heutige Rolle von Informationssystemen im Wettbewerb ist unentbehrlich, da globale Märkte erschließbar sind und die Analyse, Kommunikation und Verwaltung auf neue Ebenen gehoben wird. Es können neue wissensbasierte Produkte angeboten werden. Unternehmen erhalten flachere und dezentralere Hierarchien mit mehr Remotemöglichkeiten und Vernetzung zwischen Lieranten, Kunden etc.
 - Ein Informationssystem ist für bestimmte Zwecke eines Teiles eines Unternehmens erstellt und betrifft Organisation, Personal und Technikinfrastruktur. Es sammelt, speichert und verarbeitet Daten zur Gewinnung von Informationen für Menschen die dann für Geschäftsfunktionen, Entscheidungsfindung, Kommunikation, Koordination etc genutzt werden können. Sie wandeln drei Grundaktivitäten Eingabe, Verarbeitung, Ausgabe in Informationen um. Es müssen die Menschen des Betriebs berücksichtigt werden, daher sind sie keine Standardsoftware. Informationssysteme sind Hilfsmittel für Management zur Entscheidungsfindung und für Mitarbeiter für Geschäftsprozesse.
 - Anwendungssysteme beinhalten alle Programme die für konkrete betriebliches Anwendungsgebiet benötigt sind. Es gibt viele parallele Anwendungssysteme in einem Unternehmen welche Teile von Informationssystemen sind. Werden von Softwarehäusern erstellt als Standardsoftware die oft noch angepasst werden muss.
-- Internet und IT haben Unternehmen ma´geblich verändert
+- Internet und IT haben Unternehmen und öffentliche Institutionen maßgeblich verändert, da es global verfügbar ist und den Austausch mit Kunden, Lieferanten etc verbessert. Es ist die primäre Infrastruktur für E-Commerce, E-Business und vernetzte Unternehmen. Papiergestützte Geschäftsprozesse können digitalisiert werden. Öffentliche Dienstleistungen und externe Lieferanten können mit Arbeitsabläufer und Kommunikation mit Bürgern besser koordinieren.
+- Die wichtigsten Probleme des Managements für Aufbau und Einsatz von IT sind sich rentierende Informationssysteme, ergänzende Vermögenswerte bereitstellen, Systemanforderungen auf globalen Umfeld gerecht werden, flexible und adaptive Architektur, Integration und Erweiterung der Systeme wahrstellen, sozial-ethische Nutzung gewährleisten.
+
+<!-- TODO Übungsfragen ergänzen -->
+
+**Abschlussdiskussion**
+
+- IT-Systeme sind zu wichtig um diesen IT-Spezialisten alleine zu überlassen. Sie verändern die Welt und beeinflussen sämtliche Geschäftsprozesse und Praktikten. Ihre Anforderungen definieren die Anforderungen an den Arbeitsmarkt und die Fähigkeiten. Ihre sozialen und ethischen Auswirkungen können über Existenzen entscheiden. Daher sollten viele Fachleute aus verschiedenen Perspektiven Einfluss auf die Systeme besitzen.
+- Es werden sich nicht alle Probleme der IT-Welt alleine lösen, auch wenn Computer immer günstiger werden, da die Probleme auch komplexer werden und mehr Expertise und Spezialwissen erfordern. Berechnungskraft alleine ist nicht mehr ausschlaggebender Faktor für Produktivitätssteigerung. Evtl sind künstliche Intelligenzen ein Ersatz für die steigende Rechenkraft und skalieren die Produktivität in der Zukunft im gleichen Maße, da abstrakte Informationsgewinnung durch KI möglich sein könnte.
+
+<!-- TODO Übungsaufgabe Analyse des Unternehmens -->
+
+**Folgen unterlassener Systeminvestitionen Morgan Stanley**
+
+- Verschiedene Geschäftsbereiche bei welchem das Wertpapiergeschäft nie richtig integriert wurde. Broker hatten andere Plattformen und Mitarbeitersysteme waren auch nicht an die alten WP-Systeme angebunden. Am Wochenende mussten Portfolio-Übersichten ausgedruckt werden, da es während der Woche mit alten Systemen nicht ging.
+- Mitarbeiter hatten kein gesammeltes Einzelsystem und es hagelte Kundenbeschwerden. Kunden verließen das Unternehmen und nahmen Portfolios mit sich.
+- Das Management machte bzgl. des Marktes und Prognosen Fehleinschätzungen und sie verloren im Privatkundengeschäft komplett.
+- Durch Ablösung des CEOs und Neueinstellungen für IT konnten Investitionen getätigt werden und der Kundenservice der Berater wesentlich verbessert werden. Und Kunden sich steuerliche Reportings einfach selber generieren können.
+- Privatkundengeschäfte konnten gerettet werden und neue Informationen gewonnen werden, wie das vermögende Kunden gerne viel Kontrolle über ihre Finanzen besitzen und ihre Ideen in individuelle Beratung einfließen lassen möchten.
+- Am Ende konnten durch Neustrukturierung und Investition in IT hohe Gewinne verbucht werden.
