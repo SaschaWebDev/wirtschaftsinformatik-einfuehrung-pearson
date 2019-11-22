@@ -215,4 +215,55 @@
 
 - Es gibt unterschiedliche Renditen nach Investiton in IT zwischen Unternehmen welche vom Konzept der ergänzenden Vermögenswerte abhängen
 - **Ergänzende Vermögenswerte** sind zusätzliche Investitionen wie in Geschäftsprozesse, Managementverhalten, Schulungen um höhere oder überhaupt eine Rendite zu erzielen
-- **Organisationsbezogenes/Managementbezogenes Kapital** sind Zusatzinvestitionen in Sachanalgen wie Gebäude, Maschinen, Werkzeuge und in Management
+- **Organisationsbezogenes/Managementbezogenes Kapital** sind Zusatzinvestitionen in Sachanalgen wie Gebäude, Maschinen, Werkzeuge und in Management wie Unternehmenskultur und IT-Entwicklungsteam
+- Desweiteren sind auch Investitionen in Infrastruktur wie Internet, Netzwerk nötig und müssen vom Management berücksichtigt werden
+- IT-Investitionen werden oftmals überdurchschnittlich mit Renditen belohnt, jedoch nur wenn auch drumherum investiert wird und an alle Perspektiven gedacht wird
+
+### Trend zum vernetzen Unternehmen
+
+- Manager müssen sich mit Informationsystemen auseinandersetzen, da sie über Produktentwicklung entscheiden sollte technischen Entscheidungen zu Teilen auch bei ihnen liegen und nicht nur in der IT
+
+#### Wachsende Bedeutung von Informationssystemen
+
+- Unternehmen und Anwendungssysteme nehmen immer mehr an Beziehung und Abhängigkeit zu
+- Wenn eine Komponente wie Software, Hardware, Datenbank, Kommunikationsmittel verändert werden beeinflusst das auch Geschäftsprozesse und Organisationsstruktur
+- Änderungen beeinflussen langfristige Planung, wenn man die Organisation berücksichtigt ändert man Informationssysteme.
+- Weitere Beziehungen zwischen Unternehmen und Informationssystemen ist die erhöhte Komplexität von Entwicklung von Anwendungssystemen, da Kunden, Lieferanten oder sogar Konkurrenten in Systeme eingebunden werden
+- Veränderungen betreffen nicht mehr wie früher nur einzelne seperate Teiles des Unternehmens
+- Der Wandel durch Internet und Wirtschaftsinformatiker Themen verändert ganze Industrient, wie den Einstellen von Musiktitelverkauf zum Streaming oder Bedrohung der Fernsehindustrie durch E-Commerce wie Cloud und YouTube, Twitter, Tumblr, Pinterest, Facebook
+- Neuer Wertstrom ist es Dienstleistungen und nicht Produkte über E-Commerce zu verkaufen
+- Management ist durch Kommunikation via Smartphone immer auf abruf erreichbar, auch auf Reisen und haben mit Wikis und Netzwerken sofortigen Zugriff auf Infos für Entscheidungen und Remotearbeiten sowie verteiltere Entscheidungen werden häufiger
+- Technischer Wandel auch hin zu mobilen digitalen Plattformen, Big Data und Cloud Computing
+
+**Impulsgeber Vernetzung mit Internet**
+
+- Leistung von Informationssystemen steigen und Kosten sinken stetig (Moorse Law besagt alle 18 Monate Verdopplung der Transistoren)
+- Das **Internet** als internationales Netz von Netzwerken aus privaten und öffentlichen Netzwerken kann quasi kostenlos weltweit Informationen verteilen
+- Das **\*World Wide Web** ist ein weltweit akzeptiertes System als Standard zum Speichern, Abrufen, Formatieren und Anzeigen von Daten/Webseiten
+
+**E-Commerce/E-Business**
+
+- Viele Waren werden weltweit über den globalen Marktplatz Internet erworben (Blumen, Elektronik, Aktien)
+-
+
+#### Fallstudie Management aus der Ferne
+
+- Management setzt immer mehr Apple-Geräte wie iPhones und iPads anstatt Blackberry ein um aus der Ferne auf Ressourcen zuzugreifen
+- Kayak-CEO nimmt an Wettkampfen teil, vernetzt sich dort und führt gleichzeitig das Unternehmen mit 120 Miterarbeitern von unterwegs
+- Er kann Kontostände, Email, Designvorschläge, Kundendaten über das iPad managen und hat unterwegs immer Internet
+- CFOs können in 15 Sekunden feststellenm ob es finanzielle Probleme gibt und können Kundenverhalten in Echtzeit überwachen
+
+**Fragen**
+
+- Welche Arten von Anwendungen werdene hier beschrieben? Welche Geschäftsbereiche werden unterstützt und wie wird operatives Geschäft und Entscheidungsfindung verbessert?
+
+  - Mobil-Apps auf iPhones und iPads die dem Management oder Mitarbeitern schnelle Informationszugriffe auf Unternehmensdaten ermöglichen
+  - Entscheidungen können für z.B. für Finanzeinschätzungen in Sekunden getroffen werden und die Effizient des Unternehmens steigt dank schnellerer Kommunikation
+
+- Welche Probleme wurden gelöst? Welche Unternehmen profitieren am meisten von digitaler Ausrüstung?
+
+  - Entscheidungsträger müssen nicht vor Ort sein um das Unternehmen zu führen und Mitarbeiter sind stark vernetzt. Am meisten profitieren Unternehmen welche viele Mitarbeiter besitzen also starke Anforderungen an Absprache und Koordination haben und evtl auf verschiedenen Teilen der Erde sitzen.
+
+- Welche Schlussfolgerung lässt sich daraus ziehen das IPhones die ganze Branche verändern wie Kunden und Lieferanten kommunizieren?
+
+  - Absprachen können verlässlicher, genauer und in Echtzeit gemacht werden. Korrekturen und Änderungen können einfach schneller vermittelt werden. Sämtliche Daten, Bilder, Ideen können geteilt werden.
