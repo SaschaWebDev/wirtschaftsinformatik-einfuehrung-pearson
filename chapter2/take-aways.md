@@ -1,5 +1,7 @@
 # Mitschrift Kapitel 2
 
+# Wirtschaftsinformatik
+
 ## Lernziele
 
 - Was ist Wirtschaftsinformatik, welche Displizinen sind eng verwandt?
