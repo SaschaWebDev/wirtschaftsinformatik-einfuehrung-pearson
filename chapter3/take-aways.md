@@ -53,5 +53,27 @@
 - Spezifität zeigt ein Prozess wird effizienter moderne IT senkt die anfallenden Transaktionskosten somit werden Aufgaben marktnäher verlagert was zu unernehmensübergreifenden Koordinationen führt.
 - Mit sinkenden Transaktionskosten sinkt die Mitarbeiteranzahl und somit Kosten, Produkte lässt man anfertigen anstatt selber zu produzieren und Gewinne gesteigert werden.
 - **Verhaltenstheoretische Ansätze** schauen psychologisch wie sich Unternehmen am Markt verhalten. Es wurden keine Beweise für einen Wandel im Unternehmen durch Informationssysteme gefunden.
-- Mehrere Marktspieler können als **virtuelles Unternehmen** agieren die mit Personen, Ideen oder Ressourcen verbunden sind. Ohne gemeinsamen Standort können sie Allianzen bilden um Produkte und Dienstleistungen zu erzeugen.
--
+- Mehrere Marktspieler können als **virtuelles Unternehmen** agieren die mit Personen, Ideen oder Ressourcen verbunden sind. Ohne gemeinsamen Standort können sie Allianzen bilden um Produkte und Dienstleistungen zu erzeugen. -**Einfluss des Internets auf Organisationsstruktur** ist bedeutend, da Zugänglichkeit, Speicherung und Verteilung von Informationsn und Wissen im Unternehmen steigt. Die Transaktionskosten und Agency-Kosten können stark sinken. Man spart sich z.B. Briefporto durch E-Mail, Bestellungsinfos stehen direkt bereit.
+- **Strategische Informationssysteme** haben auf jeder Organisationsebene Ziele, Betriebsabläufe, Produkte und Dienstleistungen die Unternehmensumwelt beeinflussen um Wettbewerbsvorteil zu erhalten. (Unterscheiden sich von Informationssysteme für Top-Management)
+- **Informationssysteme für geschäftsbezogene Strategien** fragen sich wie man in einem bestimmten Markt erfolgreich bestehen kann. Eine Strategie ist es der kostengünstigte Hersteller zu sein eine andere sein Produkt gegenüber der Konkurrenz zu verbessern.
+- **Informationssysteme zur Wertschöpfungskette** nutzen ist die gängigste Anwendung. Das **Wertschöpfungskettenmodell** hebt bestimmte Geschäftsaktivitäten hervor. Man untersucht bestimmte kritische Einsatzpunkte bei welchen man die Wettberwerbsfähigkeit steigern kann. Man teilt die Aktivitäten die dazu beitragen in eine Kette ein.
+- **Primäre (Wertschöpfungs)Aktivitäten** stehen mit Produktion und Distribution der Produkte in Beziehung. (Innerbetriebliche Logistik, Arbeitsvorbereitung/Planung, Ferting, Distributionslogik. Vetrieb, Marketing, Kundenservice)
+- **Unterstützende (Wertschhöpfungs)Aktivitäten** ermöglichen Ausführung der primären Aktivitäten durch Infrastruktur (Verwaltung, Management, Personalwesen, Technikinfrastruktur, Finanzwesen)
+- **Wertschöpfungsnetz** ist eine Gruppe unabhängiger Unternehmen die mit IT die Wertschöpfungskette koordinieren die weniger linear und mehr kundenorientiert ist.
+- Unternehmen können langjährige Beziehungen zu Kunden aufbauen und sollten interne und externe Wertschöpfungsketten besitzen und diese auch adaptiv verändern.
+- **Informationssysteme zur Unterstützung der Differenzierungsstrategie** kann mittels IT erreicht werden um eigene Produkte von Konkurrenten abzuheben. Die **Differenzierung** ist eine Wettbewerbsstrategie bei der neue einzigartige Produkte/Dienstleistungen geeschaffen werden die Konkurrenten nur schwer herstellen können um einen höheren Verkaufspreis zu erreichen.
+- **Informationssysteme zur Unterstützung der Strategie der fokussierten Differenzierung** kann mittels IT neue Marktnischen schaffen und genaue Kundengruppen für ein Produkt identifizieren. Durch die **fokussierete Differenzierung** kann mit dieser Wettbewersbstrategie Produkte für neue spezielle Marktnischen entwickelt werden um im Zielmarkt den Wettbewerbern überlegen zu sein. Kundenvorlieben können so sehr individuell bedient werden.
+- **Informationssysteme zur Unterstützung der Strategie der Kostenführung** mittels IT kann **Kostenführerschaft** nutzen als Wettbewerbsstrategie um kostengünstigster Hersteller einer Branche zu werden und Wettbewerbsvorteile zu entdecken.
+- **Informationssysteme zur Unterstützung von Lieferanten/Kundennähe wie Efficient Consumer Response (ECR) und Warenloses Lager** mittels IT kann direkten Zugriff auf Zulieferer ermöglichen um Produktionspläne zu optimieren. Amazon nutzt Käufe um Kunden weitere ähnliche Produkte anzubieten und eine starke Bindung zum Kunden aufzubauen. Beim Kunden entstehen **Switching Costs** und sie fühlen sich an einen Anbieter gebunden.
+- Vernetzte Unternehmen sind in der Lage elektronische Verbindungen zu anderen Unternehmen aufzubauen.
+- **Supply Chain Management** bezeichnet die Gesamtheit von Wertschöpfungsketten zur Produkterstellungen.
+- **Efficient Consumer Response (ECR)** ist die auf Unternehmen bezogene Vision, Strategie und Techniken die zwischen Kooperation von Hersteller und Handel entstehen. Kundenzufriedenheit und Verbraucherbedürfnisse sollten optimiert werden.
+- Durch das Push-Prinzip(Hersteller-zu-Konsument) bringen Hersteller ihre Produkte in Richtung Endkunden in der Supply Chain. Prozessketten nach dem ECR-Prinzipien arbeiten verbraucherorientiert nach dem Pull-Prinzip(Konsument-zu-Hersteller). Der Verkauf von Ware löst Informationsfluss aus und die Wertschöpfungskette wird rückwärts durchlaufen. Dank Electronic Data Interchange (EDI) kann dies elektronisch durchlaufen.
+- Mit just-in-time Logistik kann Warenbeschädigung gemindert werden. ER funktioniert mit Saisonartikeln oder Frischware nicht.
+- **Effiziente Produkteinführung** sorgt für enge Zusammenarbeit zwischen
+
+### Fallstudie 7-Eleven-Läden
+
+- Kenntnisse über die Kunden sind für 7-Eveleven besonders wichtig, weil dann nur die Artikel gekühlt und angeboten werden müssen, die auch wirklich die Kunden kaufen.
+- Das Retail Information System erfasst alle Einkäufe und überträgt diese an eine Datenbank die von anderen Systemen verwaltet wird.
+- Durch das Retail Information System werden Wettbewerbsvorteile erreicht, da auf Kundenwünsche besser eingegangen werden kann
