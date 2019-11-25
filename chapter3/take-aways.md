@@ -39,4 +39,19 @@
 - **Ökonomische Erklärungsanatz** ist IT ein Produktionsfaktor der Kapital und Arbeitskraft ersetzt. IT-Kosten sinken während Arbeitskraftkosten stetig steigen, dadurch lohnt sich Mehreinsatz von IT.
 - **Transaktionskostentheorie** sagt das jedes Handeln wie (Vertrag, Suche, Entscheidung) in einer Marktwirtschaft Transaktionskosten beinhaltet. Diese können durch IT gespart werden.
 - Durch **Agendy-Theorie** kann auch durch IT das Managementbudget reduziert werden. Ein Auftraggeber beschäftigt Agenten und zur Arbeitserledigung, jedoch müssen stetig Anreize geschaffen werden damit Arbeiter auch Arbeiten und nicht eigene Interessen ausüben. Je größer ein Unternehmen ist desto höher die Agencykosten da mehr überwacht werden muss.
-- **Organisationsstruktur im Markt-Hierarchie-Paradigma**
+- **Organisationsstruktur im Markt-Hierarchie-Paradigma** besteht im wesentlichen darin die Probleme aus knappen Wirtschaftsgüter optimal in Arbeit zu verteilen. Die Organisation und Koordination verursacht Transaktionskosten.
+- **Märkte** sind abstrakte Orte des Tausches und Preisbildung auf denen Angebot und Nachfrage zusammentreffen. Der Preis koordiniert die Ressourcenverteilung und Ressourcen sollten optimal gesamtwirtschaftliche Wohlfahrt maximieren. Marktteilnehmer verhalten sich begrenzt rational und oppurtonistisch während ihre Beziehungen wechselhaft und kompetitiv sind.
+- **Hypothesen zur Veränderung von Koordinationsstrukturen** fragt sich ob mit IT mehr Markt oder mehr Hierarchie zu erwarten ist es gibt folgende Hypothesen:
+
+  - **Move-to-Market-Hypothese** marktliche und hierarschische Koordination wird effektiver. Transaktionskosten für Markttransaktionen sind höher als für interne Transaktionen. Senkung der Transaktionskosten sorgt für Auslagerung und begünstigt Markttransaktionen und damit entstehen elektronische Märkte.
+  - **Move-to-the-middle-Hypothese** sagt das IT direkt oder indirekt Transaktionskosten, Koordinations und Überwachungskosten, Investitionskosten und Verhandlungen sowie Nachfragesicherheit reduziert. Dadurch wird Auslagerung begünstigt welches einen Trend von zwischenbetrieblichen hierarchischen Beziehungen begünstigt.
+  - **Move-to-the-hierarchy-Hypothese** hat keine Literatur aber sagt IT hohe Kontrollspannen hat wodurch flache Organisationen entstehen. Ist Gegensatz zu move to market.
+  - **Mixed-mode-Hypotehese** sagt IT ermöglicht Kordinationsform effizienter zu gestalten und Markt und Hierarchie gleichzeitig als Koordinationsform begünstigt.
+
+![](assets/transaktionskosten.PNG)
+
+- Spezifität zeigt ein Prozess wird effizienter moderne IT senkt die anfallenden Transaktionskosten somit werden Aufgaben marktnäher verlagert was zu unernehmensübergreifenden Koordinationen führt.
+- Mit sinkenden Transaktionskosten sinkt die Mitarbeiteranzahl und somit Kosten, Produkte lässt man anfertigen anstatt selber zu produzieren und Gewinne gesteigert werden.
+- **Verhaltenstheoretische Ansätze** schauen psychologisch wie sich Unternehmen am Markt verhalten. Es wurden keine Beweise für einen Wandel im Unternehmen durch Informationssysteme gefunden.
+- Mehrere Marktspieler können als **virtuelles Unternehmen** agieren die mit Personen, Ideen oder Ressourcen verbunden sind. Ohne gemeinsamen Standort können sie Allianzen bilden um Produkte und Dienstleistungen zu erzeugen.
+-
