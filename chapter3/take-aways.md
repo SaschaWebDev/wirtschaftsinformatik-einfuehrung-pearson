@@ -68,15 +68,22 @@
 - Vernetzte Unternehmen sind in der Lage elektronische Verbindungen zu anderen Unternehmen aufzubauen.
 - **Supply Chain Management** bezeichnet die Gesamtheit von Wertschöpfungsketten zur Produkterstellungen.
 - **Efficient Consumer Response (ECR)** ist die auf Unternehmen bezogene Vision, Strategie und Techniken die zwischen Kooperation von Hersteller und Handel entstehen. Kundenzufriedenheit und Verbraucherbedürfnisse sollten optimiert werden.
-- Durch das Push-Prinzip(Hersteller-zu-Konsument) bringen Hersteller ihre Produkte in Richtung Endkunden in der Supply Chain. Prozessketten nach dem ECR-Prinzipien arbeiten verbraucherorientiert nach dem Pull-Prinzip(Konsument-zu-Hersteller). Der Verkauf von Ware löst Informationsfluss aus und die Wertschöpfungskette wird rückwärts durchlaufen. Dank Electronic Data Interchange (EDI) kann dies elektronisch durchlaufen.
+- Durch das Push-Prinzip(Hersteller-zu-Konsument, traditionell angebotsorientiert) bringen Hersteller ihre Produkte in Richtung Endkunden in der Supply Chain. Prozessketten nach dem ECR-Prinzipien arbeiten verbraucherorientiert nach dem Pull-Prinzip(Konsument-zu-Hersteller, nachfrageorientiert). Der Verkauf von Ware löst Informationsfluss aus und die Wertschöpfungskette wird rückwärts durchlaufen. Dank Electronic Data Interchange (EDI) kann dies elektronisch durchlaufen.
 - Mit just-in-time Logistik kann Warenbeschädigung gemindert werden. ER funktioniert mit Saisonartikeln oder Frischware nicht.
 - **Effiziente Produkteinführung** sorgt für enge Zusammenarbeit zwischen Hersteller und Handel. Konsumentenverhalten kann schnell getested und reagiert werden.
-- Wal-Mart besitzt ein effizienties Warennachschubeprogramm, welches immer dafür sorgt, dass die Regale befüllt sind. Produkte werden bei Kassencheckout am Terminal gescannt und an den Zentralrechner geschickt. Bestellungen werden an Lieferanten geschickt und diese können auch selber in Warenbestände hineinschauen. Damit kostet Wal-Markt das Warenauffüllen kaum Geld und es müssen keine Warenlager genutzt werden.
+- Wal-Mart besitzt ein effizienties Warennachschubprogramm, welches immer dafür sorgt, dass die Regale befüllt sind. Produkte werden bei Kassencheckout am Terminal gescannt und an den Zentralrechner geschickt. Bestellungen werden an Lieferanten geschickt und diese können auch selber in Warenbestände hineinschauen. Damit kostet Wal-Markt das Warenauffüllen kaum Geld und es müssen keine Warenlager genutzt werden.
 - Supply Chain Management kann Kosten senken, Warenverfügbarkeit erhöhen und auf Kundennachfrage schnell zu reagieren.
 - **Traditionelle Lieferung** hat ein Zentrallager mit Lieferung zum Lagerraum des Kunden welcher dann die Waren verteilt.
 - **Just-in-time-Lieferung** Hat Zentrallager und häufige Bedarfslieferungen in den Lagerraum des Kunden der die Waren dann verteilt.
 - **Warenlose Lager** können durch große Zentrallager mit täglichen Lieferungen direkt zum Kundenbedarf liefern. Der Kunde benötigt kein eigenes Lager mehr.
--
+- **Ausschöpfen von Synergien und Verbesserung Kernkompetenzen**
+
+### Beispiele von Strategien
+
+- **Kostenführerschaft** Informationssysteme dienen zum Angebot von Produkten und Dienstleistungen zu günstigeren Preisen als Wettbewerber
+- **Differenzierung** Informationsysteme differenzieren Produkte zum Angebot einzigartiger Services
+- **Fokussierte Differenzierung** Informationssysteme ermöglichen Nischenspezialisierung
+- **Stäkrung der Kunden-Lieferanten-Bindung** Die Informationssysteme dienen zum Aufbau einer starken Bindung von Kunden und Lieferanten
 
 ### Fallstudie 7-Eleven-Läden
 
