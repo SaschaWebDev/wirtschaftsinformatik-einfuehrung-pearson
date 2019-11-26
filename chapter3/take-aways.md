@@ -76,17 +76,34 @@
 - **Traditionelle Lieferung** hat ein Zentrallager mit Lieferung zum Lagerraum des Kunden welcher dann die Waren verteilt.
 - **Just-in-time-Lieferung** Hat Zentrallager und häufige Bedarfslieferungen in den Lagerraum des Kunden der die Waren dann verteilt.
 - **Warenlose Lager** können durch große Zentrallager mit täglichen Lieferungen direkt zum Kundenbedarf liefern. Der Kunde benötigt kein eigenes Lager mehr.
-- **Ausschöpfen von Synergien und Verbesserung Kernkompetenzen**
+- **Ausschöpfen von Synergien und Verbesserung Kernkompetenzen** Unternehmen haben oft mehrere Geschäftsfelder und Informationssysteme können **Synergien** zwischen Geschäftsbereichen liefern wodurch die die Gesamtleistung verbessert.
+- **Kernkompetenzen** als Fähigkeit oder Aktivität zur überlegenen Wettbewerbsfähigkeit erwirbt man wenn man z.B. der beste Produzent einer Ware ist und es beruht auf Wissen mit jahrelanger Praxis.
 
-### Beispiele von Strategien
+#### Beispiele von Strategien
 
 - **Kostenführerschaft** Informationssysteme dienen zum Angebot von Produkten und Dienstleistungen zu günstigeren Preisen als Wettbewerber
 - **Differenzierung** Informationsysteme differenzieren Produkte zum Angebot einzigartiger Services
 - **Fokussierte Differenzierung** Informationssysteme ermöglichen Nischenspezialisierung
-- **Stäkrung der Kunden-Lieferanten-Bindung** Die Informationssysteme dienen zum Aufbau einer starken Bindung von Kunden und Lieferanten
+- **Stärkung der Kunden-Lieferanten-Bindung** Die Informationssysteme dienen zum Aufbau einer starken Bindung von Kunden und Lieferanten
 
-### Fallstudie 7-Eleven-Läden
+#### Fallstudie 7-Eleven-Läden
 
-- Kenntnisse über die Kunden sind für 7-Eveleven besonders wichtig, weil dann nur die Artikel gekühlt und angeboten werden müssen, die auch wirklich die Kunden kaufen.
+- Kenntnisse über die Kunden sind für 7-Eleven besonders wichtig, weil dann nur die Artikel gekühlt und angeboten werden müssen, die auch wirklich die Kunden kaufen.
 - Das Retail Information System erfasst alle Einkäufe und überträgt diese an eine Datenbank die von anderen Systemen verwaltet wird.
 - Durch das Retail Information System werden Wettbewerbsvorteile erreicht, da auf Kundenwünsche besser eingegangen werden kann
+
+#### Fallstudie Autohersteller als neue Softwareunternehmen
+
+- Autohersteller bauen immer mehr Software in Autos um das Erlebnis zu verbessern, da wenig Veränderungen an Autos nötig sind aber Nutzen für Attraktivität groß sein kann.
+- Autohersteller können Software in wenigen Monate entwickeln im Gegensatz zu mehreren Jahren eines Autos und die Programme in der Zukunft updaten. Allerdings sind die Autos nun abhängig von Softwarezyklen.
+
+#### Organsiation Starbucks mit Technik erneut wettbewerbsfähig
+
+- Mit 1700 Filialen ging es Starbucks lange sehr gut und es expandierte stark indem es Spitzenkafee und Spezialitäten anbot mit gutem Kundenservice.
+- Zur Wirtschaftskrise 2008 sanken gewinne und Starbucks galt nichtmehr als hip da es mehr wie eine Fast-Food-Kette geworden wäre.
+- Starbucks hat einen radikalen Wandel gemacht und hat überall WLAN integriert, eine mobile Plattform erstelllt, Produktdifferenzierung bei Getränken angewendet durch spezielle Getränke besonders viel Wert auf Know-How und Kundenfreundlichkeit des Personals gelegt.
+- Nach Analyse das ein Drittel der Kunden Smartphones haben wurde Zahlen der Handy-App angeboten und eine Prepaid-Karte eingeführt.
+
+### Branchenbezogene Strategien durch Informationspartnerschaften, Wettbewersbkräftemodelllen und netzartigen Unternehmensverbünden
+
+-
