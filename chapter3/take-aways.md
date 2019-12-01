@@ -107,3 +107,5 @@
 ### Branchenbezogene Strategien durch Informationspartnerschaften, Wettbewersbkräftemodelllen und netzartigen Unternehmensverbünden
 
 - **Strategien**
+
+- Die strategien der
